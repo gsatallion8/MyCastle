@@ -9,3 +9,4 @@ Amazon Echo
 Philips Hue Light + Hub
 
 ## Methodology:
+![](schematic.png)
