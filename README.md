@@ -3,7 +3,9 @@ Smart home application with facial recognition, voice interaction, and IoT integ
 
 ## Hardware:
 Amazon Deeplens
+
 Amazon Echo
+
 Philips Hue Light + Hub
 
 ## Methodology:
